@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>numb48.jpg</filename>
+	<path>C:\Users\Ayaz\Downloads\NumbePlate\img\numb48.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NumberPlate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>594</xmin>
+			<ymin>314</ymin>
+			<xmax>747</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

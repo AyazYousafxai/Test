@@ -1,0 +1,26 @@
+<annotation>
+	<folder>img</folder>
+	<filename>numb127.jpg</filename>
+	<path>C:\Users\Ayaz\Downloads\NumbePlate\img\numb127.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NumberPlate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>222</ymin>
+			<xmax>573</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

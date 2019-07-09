@@ -1,0 +1,38 @@
+<annotation>
+	<folder>new images</folder>
+	<filename>numb242.jpg</filename>
+	<path>D:\FYP NUMber\new images\numb242.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NumberPlate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>394</xmin>
+			<ymin>184</ymin>
+			<xmax>432</xmax>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>NumberPlate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>140</ymin>
+			<xmax>605</xmax>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+</annotation>
